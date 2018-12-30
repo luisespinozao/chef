@@ -1,0 +1,10 @@
+{
+  "id": "user",
+  "password": "$1$jc/wtUYD$GguwlhsrJpeF6VDTzShb3/",
+  "uid": 1001,
+  "groups": ["wheel", "dev"],
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCu3L3l+NKJ3uFAgY9yOoZlY+Nl5DfAlNq8TOhGExnmjxxdk7FLhz0daN+CRTX0JLWjsRKfK7Ka0TA5EDb9jSgFNFIzltnmcILbls56YW+9w8hMYL1cFqbJrvkNWidT0sEb4XhrFwL+gx6E6iOmNEcpvh9uM9BL+8EOUxszzoLQgif3blQ9gxBWJuRnZrGgE1ANodGh8IqvxIjMX8S9+N+xmOkM0B7RUctduxyEZphAWI3IEazIfb6lbJsyjLgB12pxNjbuwtEpulvB6u3S3jn6EgSTfjfH4wyUTC6eJ9E5vXKwi/+W5JSNgWW1AuShTNzpK49LGgOFAaSGh3S/Bn4F luis.espinozao@hotmail.com"
+   ]
+}
